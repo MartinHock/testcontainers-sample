@@ -1,9 +1,9 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Products.Api", "Products.Api\Products.Api.csproj", "{F5DC3196-3B78-41B1-B0F0-083BB2883CA5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Products.Api", "Products.Api\Products.Api.csproj", "{F5DC3196-3B78-41B1-B0F0-083BB2883CA5}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{FA743568-8F8C-4339-BDBA-2D8060FDEE02}"
 EndProject
@@ -16,7 +16,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{A8D247EE-348B-4224-980A-F3C770AD6216}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Products.Api.IntegrationTests", "Products.Api.IntegrationTests\Products.Api.IntegrationTests.csproj", "{3EBAB101-C92C-4A5B-B9F3-44D78466ED6F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Products.Api.IntegrationTests", "Products.Api.IntegrationTests\Products.Api.IntegrationTests.csproj", "{3EBAB101-C92C-4A5B-B9F3-44D78466ED6F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
