@@ -1,6 +1,7 @@
-﻿using Products.Api.Products;
+﻿using Application.IntegrationTests;
+using Products.Api.Products;
 
-namespace Application.IntegrationTests;
+namespace Products.Api.IntegrationTests;
 
 public class ProductTests : BaseIntegrationTest
 {

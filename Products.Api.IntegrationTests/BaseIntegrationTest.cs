@@ -1,8 +1,8 @@
-﻿using MediatR;
+﻿using Application.IntegrationTests;
+using MediatR;
 using Microsoft.Extensions.DependencyInjection;
-using Products.Api;
 
-namespace Application.IntegrationTests;
+namespace Products.Api.IntegrationTests;
 
 public abstract class BaseIntegrationTest : IClassFixture<IntegrationTestWebAppFactory>, IDisposable
 {
